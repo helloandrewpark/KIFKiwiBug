@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KiwiTest/ViewController.m"
+            timestampString = "450830798.506384"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "-pressedButton"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/KIF/Classes/KIFUITestActor.m"
+            timestampString = "450832354.016592"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "-tapViewWithAccessibilityLabel:value:traits:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KiwiTestTests/KiwiTestTests.m"
+            timestampString = "451334010.732932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "SPEC_BEGIN()"
+            landmarkType = "6">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KiwiTestTests/KiwiTestTests.m"
+            timestampString = "451334012.863025"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "SPEC_BEGIN()"
+            landmarkType = "6">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27+[TEST1 buildExampleGroups]_block_invoke_4"
+                  moduleName = "KiwiTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewpark/Desktop/KiwiTest/KiwiTestTests/KiwiTestTests.m"
+                  timestampString = "451334038.164831"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27+[TEST1 buildExampleGroups]_block_invoke_4"
+                  moduleName = "KiwiTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewpark/Desktop/KiwiTest/KiwiTestTests/KiwiTestTests.m"
+                  timestampString = "451334038.165166"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27+[TEST1 buildExampleGroups]_block_invoke_4"
+                  moduleName = "KiwiTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewpark/Desktop/KiwiTest/KiwiTestTests/KiwiTestTests.m"
+                  timestampString = "451334038.165437"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "243">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KiwiTestTests/Kiwi2Tests.m"
+            timestampString = "451334030.824133"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "SPEC_BEGIN()"
+            landmarkType = "6">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27+[TEST2 buildExampleGroups]_block_invoke_4"
+                  moduleName = "KiwiTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewpark/Desktop/KiwiTest/KiwiTestTests/Kiwi2Tests.m"
+                  timestampString = "451334038.165731"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27+[TEST2 buildExampleGroups]_block_invoke_4"
+                  moduleName = "KiwiTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewpark/Desktop/KiwiTest/KiwiTestTests/Kiwi2Tests.m"
+                  timestampString = "451334038.166085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27+[TEST2 buildExampleGroups]_block_invoke_4"
+                  moduleName = "KiwiTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewpark/Desktop/KiwiTest/KiwiTestTests/Kiwi2Tests.m"
+                  timestampString = "451334038.166359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "243">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

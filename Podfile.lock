@@ -1,0 +1,47 @@
+PODS:
+  - AFNetworking (2.5.2):
+    - AFNetworking/NSURLConnection (= 2.5.2)
+    - AFNetworking/NSURLSession (= 2.5.2)
+    - AFNetworking/Reachability (= 2.5.2)
+    - AFNetworking/Security (= 2.5.2)
+    - AFNetworking/Serialization (= 2.5.2)
+    - AFNetworking/UIKit (= 2.5.2)
+  - AFNetworking/NSURLConnection (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.2)
+  - AFNetworking/Security (2.5.2)
+  - AFNetworking/Serialization (2.5.2)
+  - AFNetworking/UIKit (2.5.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - KIF (3.2.1):
+    - KIF/XCTest (= 3.2.1)
+  - KIF-Kiwi (0.2.4):
+    - KIF (~> 3.0)
+    - Kiwi (~> 2.0)
+  - KIF/XCTest (3.2.1)
+  - Kiwi (2.3.1)
+  - Nocilla (0.9.0)
+  - OCMock (2.2.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - KIF-Kiwi
+  - Nocilla
+  - OCMock (~> 2.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: fefbce9660acb17f48ae0011292d4da0f457bf36
+  KIF: ef1691e54e1d969c3b4fd0b5b56a3d7ddf37f216
+  KIF-Kiwi: fd9f800ca56db7cd98059fbd997158e76012bcaf
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+  Nocilla: d7d96e8a11e363f0d7c976d48b320c43d61fb471
+  OCMock: a6a7dc0e3997fb9f35d99f72528698ebf60d64f2
+
+COCOAPODS: 0.35.0
